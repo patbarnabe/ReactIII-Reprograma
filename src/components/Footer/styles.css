@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+* {
+    font: 600 18px Nunito, sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.site-footer {
+  font-size:15px;
+  line-height:24px;
+  color:#acacac; 
+  margin: 1%;
+  display: flex;
+  justify-content:space-between
+}
+
+.site-footer h6 {
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  letter-spacing:2px;
+  font-weight: bolder;
+}
+
+.site-footer h2 {
+    color:#fff;
+    text-align: right;
+    letter-spacing:2px;
+    text-transform: uppercase;
+    font-size:16px;
+    margin-bottom: 2%;
+    font-weight: bolder;
+}
+
+.site-footer p {
+    text-align: justify;
+    width: 70%;
+}
+
+.social-media img {
+    width: 8%;
+    margin:0 7% 0 7%
+}
+
+.social-media {
+    text-align: right;
+}
+
+
+
+
+
