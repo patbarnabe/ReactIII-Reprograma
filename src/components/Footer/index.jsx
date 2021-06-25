@@ -17,11 +17,11 @@ const Footer = () => {
                         <h2 className="titulo"> Siga-me nas redes sociais </h2>
 
                         <ul className="social-media">
-                            <a href='https://github.com/patbarnabe' target="_blank">
+                            <a href='https://github.com/patbarnabe' target="_blank" rel="noreferrer">
                                 <img src={GithubImg} alt="Logo Github"/>
                             </a>
 
-                            <a href='https://www.linkedin.com/in/patriciabarnabe/' target="_blank">
+                            <a href='https://www.linkedin.com/in/patriciabarnabe/' target="_blank" rel="noreferrer">
                                 <img src={LinkedinImg} alt="Logo LinkedIn"/>
                             </a>
                         </ul>
