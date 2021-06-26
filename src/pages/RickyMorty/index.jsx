@@ -5,18 +5,15 @@ import './styles.css'
 
 
 const RickyMorty = () =>{
-    const [personagens, setPersonagem] = useState([]) //pega os personagens da api e atualiza para mostrar na tela
+    const [personagens, setPersonagem] = useState([]) 
     const [filtroPersonagem, setFiltroPersonagem] = useState([])
     const [busca, setBusca] = useState('')
 
-//antes disso: era um array vazio
-    //pegar dados da api: https://rickandmortyapi.com/api/character
     useEffect(()=>{
         fetch('https://rickandmortyapi.com/api/character')
             .then(resposta => resposta.json())
             .then(dados => setPersonagem(dados.results))
     },[])
-//console.log(personagens) //virou um array com os dados da api
 
     useEffect(()=>{
         setFiltroPersonagem(
