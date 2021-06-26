@@ -28,6 +28,6 @@ O objetivo é ter um front-end responsivo que consuma apis e nos permita interag
 ---
 ### :chart: Resultado
 
-![img](./react-2/src/assets/resultado1.png)
-![img](./react-2/src/assets/resultado2.png)
-![img](./react-2/src/assets/resultado3.png)
+![img](./react-3/src/assets/resultado1.png)
+![img](./react-3/src/assets/resultado2.png)
+![img](./react-3/src/assets/resultado3.png)
