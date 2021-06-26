@@ -14,7 +14,7 @@ const Footer = () => {
                     </div>
 
                     <div>
-                        <h2 className="titulo"> Siga-me nas redes sociais </h2>
+                        <h2> Siga-me nas redes sociais </h2>
 
                         <ul className="social-media">
                             <a href='https://github.com/patbarnabe' target="_blank" rel="noreferrer">

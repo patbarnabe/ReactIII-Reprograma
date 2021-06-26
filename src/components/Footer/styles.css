@@ -15,7 +15,7 @@
   color:#acacac; 
   margin: 1%;
   display: flex;
-  justify-content:space-between
+  justify-content:space-between;
 }
 
 .site-footer h6 {
@@ -50,6 +50,17 @@
     text-align: right;
 }
 
+@media (max-width:768px){   
+    .social-media img {
+        width: 20%;
+        margin:0 20% 0 10%
+    }
+
+    .container {
+        padding: 0 1% 0 1%;
+    }
+
+}
 
 
 
