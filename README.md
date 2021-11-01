@@ -1,4 +1,4 @@
-<h1 align="center">Reprograma 💜 Todas Em Tech - Projeto To Do List </h1>
+<h1 align="center">Reprograma 💜 Todas Em Tech - App Divertido em React </h1>
 
 <p align="center">10ª Turma | Front-end | maio 2021 </p>
 
