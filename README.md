@@ -1,6 +1,6 @@
 <h1 align="center">Reprograma 💜 Todas Em Tech - App Divertido em React </h1>
 
-<p align="center">10ª Turma | Front-end | maio 2021 </p>
+<p align="center">10ª Turma | Front-end | junho 2021 </p>
 
 ## Índice
 
